@@ -1,2 +1,4 @@
 # rock-paper-scissors
-rock-paper-scissors console game between a user and the computer.
+Rock paper scissors game created with HTML, CSS and JS.
+
+
